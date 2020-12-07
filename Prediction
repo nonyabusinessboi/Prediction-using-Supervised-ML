@@ -1,0 +1,7 @@
+import numpy as np
+import matplotlib as plt
+import pandas as pd
+
+x=3
+y=x+3
+print(y)
